@@ -70,9 +70,4 @@
 * **External Databases:** Connecting to MySQL or PostgreSQL using drivers like `mysql-connector` or `psycopg2`.
 * **ORMs (Object-Relational Mapping):** Introduction to SQLAlchemy, defining models, and querying via Python objects rather than raw SQL.
 
-## Module 10: Testing, Debugging & Code Quality
 
-* **Unit Testing:** Writing and running tests using `unittest` and `pytest`.
-* **Debugging:** Utilizing `pdb` and IDE debugging tools.
-* **Code Quality:** PEP 8 compliance, utilizing linters (Flake8, Pylint) and formatters (Black).
-* **Logging:** The `logging` module, configuring log levels (DEBUG, INFO, WARNING, ERROR, CRITICAL), and setting up file handlers.
